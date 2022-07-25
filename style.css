@@ -336,5 +336,16 @@ font-size: 1em;
 /* member section */
 .member{
   display: flex;
-
+gap:3vh;
+background: #fff;
+height: 50vh;
+}
+.member .mentor{
+  width : 40vh;
+  height: 50vh;
+  background:#000;
+margin: auto;
+}
+.member .mentor h2{
+  text-align: center;
 }
